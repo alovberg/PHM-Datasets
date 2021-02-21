@@ -216,6 +216,8 @@ Data description: https://ieeexplore.ieee.org/document/7356483
 & 
 https://ti.arc.nasa.gov//m/project/prognostic-repository/Description_of_Simulated_Small_Satellite_Operation_Data_Sets.pdf
 
+Download link: https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#smallsat
+
 ---
 
 ## Other
